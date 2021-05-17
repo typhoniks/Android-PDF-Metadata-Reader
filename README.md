@@ -1,4 +1,4 @@
-# Android-PDF-Metadata
+# Android PDFMetadata Reader
 Simple App to Extract PDF Metadata in Android written in JAVA
 Using PDFBOX android library to extract metadata from PDF file
 
